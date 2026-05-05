@@ -2,7 +2,7 @@
 
 If you cannot install bash 5.3 on your system, run `git checkout d6f757f609fe5a004ac3c97ab9226bd1fbc648f7` after cloning the repo. This will go back to a previous commit that doesn't have any of the changes from Dave Eddy's video.
 
-bash 5.3 is `brew install bash` on macOS.
+Bash 5.3 is `brew install bash` on macOS.
 
 **If you're on windows, sorry, you're out of luck.**
 **If you don't have brew, hey, what the heck are you doing? Get it IMMEDIATELY [here](https://brew.sh).** 
