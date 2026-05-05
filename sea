@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+i=$1
+CHARS=(▃ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▃)
+while ((i > 0)); do
+for c in "${CHARS[@]}"; do
+	printf "\x1b[38;2;29;162;216;48;2;230;230;230m$c\x1b[0m"
+	((i--))
+done
+done
