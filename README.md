@@ -5,7 +5,7 @@ If you cannot install bash 5.3 on your system, run `git checkout d6f757f609fe5a0
 bash 5.3 is `brew install bash` on macOS.
 
 **If you're on windows, sorry, you're out of luck.**
-**If you don't have brew, hey, what the heck are you doing? Get it IMMEDIATELY [here](https://brew.sh) 
+**If you don't have brew, hey, what the heck are you doing? Get it IMMEDIATELY [here](https://brew.sh).** 
 
 bash-bmp
 ========
